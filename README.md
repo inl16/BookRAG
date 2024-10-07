@@ -3,7 +3,7 @@
 A Book Retrieval-Augmented Generation (RAG) system enables you to interact with any book by asking questions and receiving answers directly from the text. It provides precise page numbers where the information is found, allowing for a deeper understanding and easy reference within the book.
 
 
-Here are the steps I took to make it after I taking pictures of each page in my textbook
+Here are the steps I took to make it after taking pictures of each page in my textbook
 
 
 Step 1 
